@@ -1,0 +1,6 @@
+plugins {
+    id 'java'
+}
+
+group 'dev.xdark'
+version '1.0'
