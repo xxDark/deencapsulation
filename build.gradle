@@ -4,3 +4,7 @@ plugins {
 
 group 'dev.xdark'
 version '1.0'
+
+jar {
+    exclude 'java'
+}
